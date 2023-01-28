@@ -1,0 +1,66 @@
+body{
+    margin:0px;
+    padding: 0px;
+    max-width:auto;
+}
+header{
+    font-family: agency fb;
+}
+header, main, footer{
+    text-align: center;
+}
+.titulos{
+    font-family: agency fb;
+    font-size: 30px;
+}
+.subTitulos{
+    font-family:Bahnschrift;
+    font-size: 20px;
+}
+.subtitulo{
+    font-family: arial;
+}
+p{
+    font-family: Bahnschrift;
+}
+/*links sociais*/
+.fontLink{
+    font-family: arial;
+    font-size: 20px;
+}
+.habilidades{
+    display:flex;
+    position:relative;
+    left:415px;
+    width:20%;
+}
+.historico{
+    text-align: center;
+    width:100%;
+}
+.titHis{
+    font-family: arial;
+    font-size:24px;
+}
+.titHist{
+    font-family: Bahnschrift;
+    font-size:20px;
+}
+/*Habilidades*/
+.subHab{
+    font-family: arial;
+    font-size: 20px;
+}
+.artHabCHJ{
+    width:auto;
+    padding:25px;
+    text-align: center;
+}
+.icones{
+    float:;
+}
+.artHis{
+    width:50%;
+    position: relative;
+    right: -25%;
+}
